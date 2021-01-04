@@ -1,0 +1,32 @@
+<form class="form pure-form"><fieldset class="pure-group"><input type="text" class="pure-input-1" placeholder="Page Title" name="title" maxlength="50" required=""><input class="hidden" name="botcheck" value="3000"><input type="text" id="img-input" class="pure-input-1" placeholder="Preview Image (paste url or choose below)" name="image" required=""><div class="img-div"><div class="img-div__img selected" style="background-image: url(&quot;&quot;);"><span>Paste the url to your image to see the preview here!</span></div><div class="img-div__img " style="background-image: url(&quot;https://www.secretrickroll.com/assets/opt1.jpg&quot;);"></div><div class="img-div__img " style="background-image: url(&quot;https://www.secretrickroll.com/assets/opt2.jpg&quot;);"></div><div class="img-div__img " style="background-image: url(&quot;https://www.secretrickroll.com/assets/opt3.jpg&quot;);"></div><div class="img-div__img " style="background-image: url(&quot;https://www.secretrickroll.com/assets/opt4.jpg&quot;);"></div><div class="img-div__img " style="background-image: url(&quot;https://www.secretrickroll.com/assets/opt5.jpg&quot;);"></div></div><textarea class="pure-input-1" type="text" placeholder="Page description" name="description" maxlength="150" rows="5" required=""></textarea><textarea class="pure-input-1" type="text" placeholder="Custom message (optional)" name="message" maxlength="250" rows="3"></textarea><select class="pure-input-1 select" name="source"><option value="blog">From: A trendy current events and culture blog.</option><option value="paper">From: A lesser know yet respected regional paper.</option></select></fieldset><button class="pure-button pure-input-1 pure-button-primary" type="submit">Make it!</button></form>
+<div class="cookie-consent-content">
+            <h3 class="text-white">
+                Like everyone on the internet, we use cookies to improve your experience. If you're ok with that please click accept.
+            </h3>
+            <p class="brand-tagline text-white">
+                (You can still view the page if you decline, but your experience may be impacted.)
+            </p>
+            <p>
+                <button class="pure-button button-large">Accept</button>    
+                <button class="pure-button button-large decline-button">Decline</button>    
+            </p>
+        </div>
+        <div class="sidebar pure-u-1 pure-u-md-1-4">
+        <div class="header">
+            <h1 class="brand-title">NEVER GONNA</h1>
+            <h2 class="brand-tagline">Give you up.<br>Let you down.<br>Run around.<br>Desert you.<br></h2>
+            <h3>You've been rolled.</h3>
+
+            <nav class="nav">
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a class="pure-button" href="https://www.secretrickroll.com">Make your own!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="pure-button" href="http://github.com/sorenrehkopf/custom-rick-roll">About this</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+    <script src="https://www.youtube.com/s/desktop/d743f786/jsbin/desktop_polymer_inlined_html_polymer_flags.vflset/desktop_polymer_inlined_html_polymer_flags.js" nonce="EqbkCUZQi9xvUM3j9VFFdw" class="js-httpswwwyoutubecomsdesktopd743f786jsbindesktop_polymer_inlined_html_polymer_flagsvflsetdesktop_polymer_inlined_html_polymer_flagsjs"></script>
